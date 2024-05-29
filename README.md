@@ -1,20 +1,32 @@
-## Hi, I'm Amirabbas Gashtil 👋
-
-🌱 I’m currently learning Data Scienece. I'm trying to achive some skills like Regression and classification 
+## Hi, I'm Amirabbas 🧑‍💻
+ I’m currently learning Data Scienece. I'm trying to achive some skills like Regression and classification 
 and currently I working on Prerequisites of Data Science like Statistics ,Data visualization and etc.
 
-## How to reach me: 
-<div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtlMjVmOW95b2J6dGtmMHpreDNlYzNlenkyc2tya2J0cDNqc3B5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="100" >
+## Language and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" title="matplotlib" alt="matplotlib" width="40"         height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
 </div>
+
+## my stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirabbasgashtil&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirabbasgashtil&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## How to reach me: 
+
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/amirabbas-g-3a8591197/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=amirabbasgashtil&style=flat-square&color=blue" alt=""/>
 </div>
+
 <!--
 **amirabbasgashtil/amirabbasgashtil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
