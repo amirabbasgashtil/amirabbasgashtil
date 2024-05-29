@@ -13,7 +13,7 @@ and currently I working on Prerequisites of Data Science like Statistics ,Data v
   </a>
 </div>
 <div>
-  <img src="https://komarev.com/ghpvc/?username=amirabbasgashtil&style=flat-square&color=blue" alt=""/>(https://www.linkedin.com/in/amirabbas-g-3a8591197/)
+  <img src="https://komarev.com/ghpvc/?username=amirabbasgashtil&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **amirabbasgashtil/amirabbasgashtil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
