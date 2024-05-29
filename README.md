@@ -1,6 +1,6 @@
 ## Hi, I'm Amirabbas 🧑‍💻
- I’m currently learning Data Scienece. I'm trying to achive some skills like Regression and classification 
-and currently I working on Prerequisites of Data Science like Statistics ,Data visualization and etc.
+ I’m currently learning Data Scienece. I'm trying to Learn some skills like machine Learning, Deep Learning , computer vision ,...
+ and currently I working on Prerequisites of Data Science like Statistics ,Data visualization and etc.
 
 ## Language and Tools:
 <div>
