@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Amirabbas Gashtil 👋
+<img https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tqZmEyc3RjZG5qaWhtanRqNGN2M3Nla3FkYnc1NWl4NmhuMWN3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif>
+🌱 I’m currently learning Data Scienece. I'm trying to achive some skills like Regression and classification 
+and currently I working on Prerequisites of Data Science like Statistics ,Data visualization and etc.
+
+## How to reach me: 
 
 <!--
 **amirabbasgashtil/amirabbasgashtil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
