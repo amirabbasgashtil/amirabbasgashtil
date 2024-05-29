@@ -1,5 +1,7 @@
 ## Hi, I'm Amirabbas Gashtil 👋
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tqZmEyc3RjZG5qaWhtanRqNGN2M3Nla3FkYnc1NWl4NmhuMWN3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="center">
+<div id="header" align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtlMjVmOW95b2J6dGtmMHpreDNlYzNlenkyc2tya2J0cDNqc3B5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="100" >
+  </div>
 🌱 I’m currently learning Data Scienece. I'm trying to achive some skills like Regression and classification 
 and currently I working on Prerequisites of Data Science like Statistics ,Data visualization and etc.
 
