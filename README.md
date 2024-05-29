@@ -11,7 +11,9 @@ and currently I working on Prerequisites of Data Science like Statistics ,Data v
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=amirabbasgashtil&style=flat-square&color=blue" alt=""/>
+</div>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=amirabbasgashtil&style=flat-square&color=blue" alt=""/>(https://www.linkedin.com/in/amirabbas-g-3a8591197/)
 </div>
 <!--
 **amirabbasgashtil/amirabbasgashtil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
