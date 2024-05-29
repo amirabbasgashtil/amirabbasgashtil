@@ -16,7 +16,7 @@ and currently I working on Prerequisites of Data Science like Statistics ,Data v
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirabbasgashtil&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to reach me: 
-
+<div align="center">Email address: amirabbasgashtil@gmail.com</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amirabbas-g-3a8591197/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
