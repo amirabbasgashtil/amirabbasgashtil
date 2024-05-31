@@ -12,7 +12,7 @@
 </div>
 
 ## my stats:
-([![GitHub Streak](https://streak-stats.demolab.com/?user=amirabbasgashtil)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amirabbasgashtil theme="dark")](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirabbasgashtil&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to reach me: 
